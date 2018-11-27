@@ -1,2 +1,2 @@
 # best-repo-ever
-#Pam added this content on 11-27-2018 at 10:40 a.m.
+Making changes to the same line in new-branch-2 as was made in new-branch-1
